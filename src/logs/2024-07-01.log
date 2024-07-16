@@ -1,0 +1,345 @@
+[32m2024-07-01 00:18:33.688[0m | [38;2;255;0;255mCPU 2.8% [0m | [38;2;255;0;255mMEM 86.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m169[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 00:18:33.700[0m | [38;2;255;0;255mCPU 7.7% [0m | [38;2;255;0;255mMEM 86.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m170[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 00:18:33.716[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 86.5%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m172[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 00:18:33.729[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 86.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m151[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 00:18:45.376[0m | [38;2;255;0;255mCPU 4.8% [0m | [38;2;255;0;255mMEM 92.2%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m152[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 00:18:51.117[0m | [38;2;255;0;255mCPU 21.6%[0m | [38;2;255;0;255mMEM 96.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m159[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 00:20:29.869[0m | [38;2;255;0;255mCPU 3.2% [0m | [38;2;255;0;255mMEM 93.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m163[0m |  - [1mFound 26 articles[0m
+[32m2024-07-01 01:40:56.830[0m | [38;2;255;0;255mCPU 5.7% [0m | [38;2;255;0;255mMEM 87.9%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m170[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 01:40:56.842[0m | [38;2;255;0;255mCPU 7.7% [0m | [38;2;255;0;255mMEM 87.9%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m171[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 01:40:56.852[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 87.9%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m173[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 01:40:56.866[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 87.9%[0m | [38;2;255;0;255mDISK 85.8%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m145[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 01:41:10.043[0m | [38;2;255;0;255mCPU 12.5%[0m | [38;2;255;0;255mMEM 98.1%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m152[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 01:41:18.783[0m | [38;2;255;0;255mCPU 14.3%[0m | [38;2;255;0;255mMEM 95.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m159[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 01:41:36.334[0m | [38;2;255;0;255mCPU 4.4% [0m | [38;2;255;0;255mMEM 95.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m162[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 01:41:46.454[0m | [38;2;255;0;255mCPU 2.5% [0m | [38;2;255;0;255mMEM 95.7%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m162[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 01:42:03.492[0m | [38;2;255;0;255mCPU 1.7% [0m | [38;2;255;0;255mMEM 95.2%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m162[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 01:42:33.550[0m | [38;2;255;0;255mCPU 1.5% [0m | [38;2;255;0;255mMEM 92.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m164[0m |  - [1mFound 26 articles[0m
+[32m2024-07-01 01:42:55.629[0m | [38;2;255;0;255mCPU 3.6% [0m | [38;2;255;0;255mMEM 69.8%[0m | [38;2;255;0;255mDISK 85.8%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__exit__[0m:[36m174[0m |  - [34m[1mQuitting browser[0m
+[32m2024-07-01 01:51:47.588[0m | [38;2;255;0;255mCPU 10.3%[0m | [38;2;255;0;255mMEM 86.7%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m170[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 01:51:47.601[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 86.7%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m171[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 01:51:47.613[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 86.7%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m173[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 01:51:47.627[0m | [38;2;255;0;255mCPU 11.1%[0m | [38;2;255;0;255mMEM 86.7%[0m | [38;2;255;0;255mDISK 85.8%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m145[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 01:51:53.325[0m | [38;2;255;0;255mCPU 6.5% [0m | [38;2;255;0;255mMEM 87.8%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m152[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 01:51:56.369[0m | [38;2;255;0;255mCPU 20.9%[0m | [38;2;255;0;255mMEM 93.9%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m159[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 01:51:59.983[0m | [38;2;255;0;255mCPU 23.6%[0m | [38;2;255;0;255mMEM 95.5%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m162[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 01:52:05.872[0m | [38;2;255;0;255mCPU 13.7%[0m | [38;2;255;0;255mMEM 93.2%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m162[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 01:52:11.921[0m | [38;2;255;0;255mCPU 2.9% [0m | [38;2;255;0;255mMEM 93.5%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m162[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 01:52:16.237[0m | [38;2;255;0;255mCPU 4.2% [0m | [38;2;255;0;255mMEM 93.5%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m164[0m |  - [1mFound 26 articles[0m
+[32m2024-07-01 01:52:18.785[0m | [38;2;255;0;255mCPU 12.4%[0m | [38;2;255;0;255mMEM 75.5%[0m | [38;2;255;0;255mDISK 85.8%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__exit__[0m:[36m174[0m |  - [34m[1mQuitting browser[0m
+[32m2024-07-01 13:38:33.970[0m | [38;2;255;0;255mCPU 2.9% [0m | [38;2;255;0;255mMEM 86.8%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m180[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 13:38:33.982[0m | [38;2;255;0;255mCPU 11.1%[0m | [38;2;255;0;255mMEM 86.8%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m181[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 13:38:33.991[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 86.8%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m183[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 13:38:34.007[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 86.7%[0m | [38;2;255;0;255mDISK 85.8%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m145[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 13:38:39.289[0m | [38;2;255;0;255mCPU 6.8% [0m | [38;2;255;0;255mMEM 90.9%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m153[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 13:38:42.996[0m | [38;2;255;0;255mCPU 24.9%[0m | [38;2;255;0;255mMEM 99.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m160[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 13:38:46.635[0m | [38;2;255;0;255mCPU 16.0%[0m | [38;2;255;0;255mMEM 97.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m163[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 13:38:51.471[0m | [38;2;255;0;255mCPU 11.3%[0m | [38;2;255;0;255mMEM 93.0%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m163[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 13:38:56.927[0m | [38;2;255;0;255mCPU 5.0% [0m | [38;2;255;0;255mMEM 93.7%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m163[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 13:39:01.665[0m | [38;2;255;0;255mCPU 3.4% [0m | [38;2;255;0;255mMEM 93.8%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m165[0m |  - [1mFound 27 articles[0m
+[32m2024-07-01 13:39:04.000[0m | [38;2;255;0;255mCPU 6.0% [0m | [38;2;255;0;255mMEM 76.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__exit__[0m:[36m174[0m |  - [34m[1mQuitting browser[0m
+[32m2024-07-01 13:39:04.011[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m188[0m |  - [1m Step 2: Saving data...[0m
+[32m2024-07-01 13:39:23.021[0m | [38;2;255;0;255mCPU 1.4% [0m | [38;2;255;0;255mMEM 79.3%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m170[0m |  - [1mSaving data...[0m
+[32m2024-07-01 13:52:11.302[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 87.7%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m197[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 13:52:11.317[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 87.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m198[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 13:52:11.329[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 87.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m200[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 13:52:11.344[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 87.6%[0m | [38;2;255;0;255mDISK 85.8%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m145[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 13:52:16.445[0m | [38;2;255;0;255mCPU 5.4% [0m | [38;2;255;0;255mMEM 91.3%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m157[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 13:52:20.821[0m | [38;2;255;0;255mCPU 21.5%[0m | [38;2;255;0;255mMEM 99.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m164[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 13:52:24.321[0m | [38;2;255;0;255mCPU 23.7%[0m | [38;2;255;0;255mMEM 99.9%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m167[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 13:52:29.237[0m | [38;2;255;0;255mCPU 16.7%[0m | [38;2;255;0;255mMEM 92.0%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m167[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 13:52:34.701[0m | [38;2;255;0;255mCPU 4.5% [0m | [38;2;255;0;255mMEM 92.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m167[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 13:52:39.291[0m | [38;2;255;0;255mCPU 3.2% [0m | [38;2;255;0;255mMEM 92.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m169[0m |  - [1mFound 27 articles[0m
+[32m2024-07-01 13:52:41.685[0m | [38;2;255;0;255mCPU 10.2%[0m | [38;2;255;0;255mMEM 71.9%[0m | [38;2;255;0;255mDISK 85.8%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__exit__[0m:[36m174[0m |  - [34m[1mQuitting browser[0m
+[32m2024-07-01 13:52:41.696[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 71.9%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m205[0m |  - [1m Step 2: Saving data...[0m
+[32m2024-07-01 13:52:54.786[0m | [38;2;255;0;255mCPU 0.9% [0m | [38;2;255;0;255mMEM 73.0%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m184[0m |  - [1mSaving data...[0m
+[32m2024-07-01 13:52:56.865[0m | [38;2;255;0;255mCPU 1.2% [0m | [38;2;255;0;255mMEM 73.1%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m186[0m |  - [1mCreating output directory...[0m
+[32m2024-07-01 13:52:58.500[0m | [38;2;255;0;255mCPU 2.5% [0m | [38;2;255;0;255mMEM 73.3%[0m | [38;2;255;0;255mDISK 85.8%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m189[0m |  - [1mDownloading images...[0m
+[32m2024-07-01 18:23:36.779[0m | [38;2;255;0;255mCPU 5.6% [0m | [38;2;255;0;255mMEM 94.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m208[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 18:23:36.794[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 94.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m209[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 18:23:36.806[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 94.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m211[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 18:23:36.825[0m | [38;2;255;0;255mCPU 17.4%[0m | [38;2;255;0;255mMEM 94.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m145[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 18:23:47.887[0m | [38;2;255;0;255mCPU 15.5%[0m | [38;2;255;0;255mMEM 91.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m209[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 18:23:47.917[0m | [38;2;255;0;255mCPU 13.3%[0m | [38;2;255;0;255mMEM 91.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m210[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 18:23:47.927[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 90.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m212[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 18:23:47.946[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 91.0%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m145[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 18:23:53.441[0m | [38;2;255;0;255mCPU 7.5% [0m | [38;2;255;0;255mMEM 94.7%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m158[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 18:23:56.797[0m | [38;2;255;0;255mCPU 25.0%[0m | [38;2;255;0;255mMEM 92.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m165[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 18:24:01.191[0m | [38;2;255;0;255mCPU 34.5%[0m | [38;2;255;0;255mMEM 95.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m168[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:24:05.875[0m | [38;2;255;0;255mCPU 14.4%[0m | [38;2;255;0;255mMEM 91.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m168[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:24:11.192[0m | [38;2;255;0;255mCPU 6.9% [0m | [38;2;255;0;255mMEM 92.0%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m168[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:24:15.753[0m | [38;2;255;0;255mCPU 3.9% [0m | [38;2;255;0;255mMEM 92.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m170[0m |  - [1mFound 27 articles[0m
+[32m2024-07-01 18:24:18.155[0m | [38;2;255;0;255mCPU 6.3% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__exit__[0m:[36m174[0m |  - [34m[1mQuitting browser[0m
+[32m2024-07-01 18:24:18.166[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m217[0m |  - [1m Step 2: Saving data...[0m
+[32m2024-07-01 18:24:18.179[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m189[0m |  - [1mSaving data...[0m
+[32m2024-07-01 18:24:18.236[0m | [38;2;255;0;255mCPU 4.2% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m194[0m |  - [1mDownloading images...[0m
+[32m2024-07-01 18:24:18.524[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 75.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 2331_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.826[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 6537_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.837[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 9039_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.855[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 2131_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.868[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 6126_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.882[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 6369_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.862[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 2096_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.899[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 1681_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.875[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 5678_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.914[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 1707_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.906[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 3166_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.848[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8935_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.928[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 1338_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.942[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 7904_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.890[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 2876_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.957[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 9720_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.964[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 7089_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.935[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 3290_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.971[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 9915_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.921[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8159_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.978[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 9866_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.988[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 1402_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.950[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 3359_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.997[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8843_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:38.004[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 3041_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:38.019[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 2983_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:38.027[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 77.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 4684_AjArticle.png downloaded[0m
+[32m2024-07-01 18:24:37.994[0m | [38;2;255;0;255mCPU 2.2% [0m | [38;2;255;0;255mMEM 77.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m204[0m |  - [1mData saved[0m
+[32m2024-07-01 18:29:23.699[0m | [38;2;255;0;255mCPU 7.4% [0m | [38;2;255;0;255mMEM 89.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m214[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 18:29:23.712[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 89.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m215[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 18:29:23.724[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 89.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m217[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 18:29:23.741[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 89.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m145[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 18:29:29.382[0m | [38;2;255;0;255mCPU 7.8% [0m | [38;2;255;0;255mMEM 92.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m158[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 18:29:32.819[0m | [38;2;255;0;255mCPU 19.2%[0m | [38;2;255;0;255mMEM 98.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m165[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 18:29:36.047[0m | [38;2;255;0;255mCPU 27.6%[0m | [38;2;255;0;255mMEM 94.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m168[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:29:44.754[0m | [38;2;255;0;255mCPU 9.3% [0m | [38;2;255;0;255mMEM 92.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m168[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:29:52.600[0m | [38;2;255;0;255mCPU 6.3% [0m | [38;2;255;0;255mMEM 91.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m168[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:29:57.028[0m | [38;2;255;0;255mCPU 4.7% [0m | [38;2;255;0;255mMEM 91.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m170[0m |  - [1mFound 27 articles[0m
+[32m2024-07-01 18:29:59.409[0m | [38;2;255;0;255mCPU 7.3% [0m | [38;2;255;0;255mMEM 73.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__exit__[0m:[36m174[0m |  - [34m[1mQuitting browser[0m
+[32m2024-07-01 18:29:59.421[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 73.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m222[0m |  - [1m Step 2: Saving data...[0m
+[32m2024-07-01 18:29:59.432[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 73.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m189[0m |  - [1mSaving data...[0m
+[32m2024-07-01 18:29:59.444[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 73.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m194[0m |  - [1mDownloading images...[0m
+[32m2024-07-01 18:30:16.887[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.7%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 6042116_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:23.470[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.7%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 4752253_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:28.481[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 75.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 4771288_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:38.984[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 75.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 6582443_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:40.465[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 75.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 7037507_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:48.961[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 3394031_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:48.981[0m | [38;2;255;0;255mCPU 100.0%[0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 6272511_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:48.994[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 5511635_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:48.987[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 7646403_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:49.005[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 7615235_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:50.429[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8112652_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:50.438[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 6149136_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:50.447[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 1059409_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:50.455[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8223884_AjArticle.png downloaded[0m
+[32m2024-07-01 18:30:50.489[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 74.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 2358465_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:04.749[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 75.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 5342213_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:05.899[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 2224437_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:09.552[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8069410_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:09.561[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 5801548_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:09.705[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 9359758_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:13.530[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8801185_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:13.538[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 5742174_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:13.556[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8072370_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:13.564[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8275742_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:13.578[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 7422064_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:19.467[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 8096671_AjArticle.png downloaded[0m
+[32m2024-07-01 18:31:19.475[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 76.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m183[0m |  - [1mImage 1247112_AjArticle.png downloaded[0m
+[32m2024-07-01 18:39:05.770[0m | [38;2;255;0;255mCPU 8.6% [0m | [38;2;255;0;255mMEM 92.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m210[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 18:39:05.784[0m | [38;2;255;0;255mCPU 15.4%[0m | [38;2;255;0;255mMEM 92.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m211[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 18:39:05.796[0m | [38;2;255;0;255mCPU 25.0%[0m | [38;2;255;0;255mMEM 92.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m213[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 18:39:05.813[0m | [38;2;255;0;255mCPU 7.7% [0m | [38;2;255;0;255mMEM 92.0%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m145[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 18:39:11.903[0m | [38;2;255;0;255mCPU 9.0% [0m | [38;2;255;0;255mMEM 95.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m160[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 18:39:15.522[0m | [38;2;255;0;255mCPU 24.0%[0m | [38;2;255;0;255mMEM 97.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m167[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 18:39:21.838[0m | [38;2;255;0;255mCPU 24.0%[0m | [38;2;255;0;255mMEM 98.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m170[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:39:25.831[0m | [38;2;255;0;255mCPU 5.6% [0m | [38;2;255;0;255mMEM 94.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m170[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:39:31.093[0m | [38;2;255;0;255mCPU 4.7% [0m | [38;2;255;0;255mMEM 96.0%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m170[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:39:35.507[0m | [38;2;255;0;255mCPU 6.0% [0m | [38;2;255;0;255mMEM 95.7%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m172[0m |  - [1mFound 27 articles[0m
+[32m2024-07-01 18:39:38.266[0m | [38;2;255;0;255mCPU 14.4%[0m | [38;2;255;0;255mMEM 75.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__exit__[0m:[36m174[0m |  - [34m[1mQuitting browser[0m
+[32m2024-07-01 18:39:38.278[0m | [38;2;255;0;255mCPU 20.0%[0m | [38;2;255;0;255mMEM 75.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m218[0m |  - [1m Step 2: Saving data...[0m
+[32m2024-07-01 18:39:38.290[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 75.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m191[0m |  - [1mSaving data...[0m
+[32m2024-07-01 18:39:38.303[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 75.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m196[0m |  - [1mDownloading images...[0m
+[32m2024-07-01 18:39:49.326[0m | [38;2;255;0;255mCPU      [0m | [38;2;255;0;255mMEM      [0m | [38;2;255;0;255mDISK      [0m | [31m[1mERROR   [0m | [36mmain[0m:[36mchallenge[0m:[36m219[0m |  - [31m[1mAn error has been caught in function 'challenge', process 'MainProcess' (34728), thread 'MainThread' (12404):[0m
+[33m[1mTraceback (most recent call last):[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\[0m[32m[1mrunpy.py[0m", line [33m196[0m, in [35m_run_module_as_main[0m
+    [35m[1mreturn[0m [1m_run_code[0m[1m([0m[1mcode[0m[1m,[0m [1mmain_globals[0m[1m,[0m [36m[1mNone[0m[1m,[0m
+    [36m       │         │     └ [0m[36m[1m{'__name__': '__main__', '__doc__': None, '__package__': 'robocorp.tasks', '__loader__': <_frozen_importlib_external.SourceFi...[0m
+    [36m       │         └ [0m[36m[1m<code object <module> at 0x000001D6B0ADC0E0, file "c:\Users\bianc\.vscode\extensions\ms-python.debugpy-2024.6.0-win32-x64\bun...[0m
+    [36m       └ [0m[36m[1m<function _run_code at 0x000001D6B0ABFBE0>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\[0m[32m[1mrunpy.py[0m", line [33m86[0m, in [35m_run_code[0m
+    [1mexec[0m[1m([0m[1mcode[0m[1m,[0m [1mrun_globals[0m[1m)[0m
+    [36m     │     └ [0m[36m[1m{'__name__': '__main__', '__doc__': None, '__package__': 'robocorp.tasks', '__loader__': <_frozen_importlib_external.SourceFi...[0m
+    [36m     └ [0m[36m[1m<code object <module> at 0x000001D6B0ADC0E0, file "c:\Users\bianc\.vscode\extensions\ms-python.debugpy-2024.6.0-win32-x64\bun...[0m
+
+  File "[32mc:\Users\bianc\.vscode\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\[0m[32m[1m__main__.py[0m", line [33m39[0m, in [35m<module>[0m
+    [1mcli[0m[35m[1m.[0m[1mmain[0m[1m([0m[1m)[0m
+    [36m│   └ [0m[36m[1m<function main at 0x000001D6B363D3F0>[0m
+    [36m└ [0m[36m[1m<module 'debugpy.server.cli' from 'c:\\Users\\bianc\\.vscode\\extensions\\ms-python.debugpy-2024.6.0-win32-x64\\bundled\\libs...[0m
+
+  File "[32mc:\Users\bianc\.vscode\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy/..\debugpy\server\[0m[32m[1mcli.py[0m", line [33m430[0m, in [35mmain[0m
+    [1mrun[0m[1m([0m[1m)[0m
+    [36m└ [0m[36m[1m<function run_module at 0x000001D6B363D240>[0m
+
+  File "[32mc:\Users\bianc\.vscode\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy/..\debugpy\server\[0m[32m[1mcli.py[0m", line [33m317[0m, in [35mrun_module[0m
+    [1mrun_module_as_main[0m[1m([0m[1moptions[0m[35m[1m.[0m[1mtarget[0m[1m,[0m [1malter_argv[0m[35m[1m=[0m[36m[1mTrue[0m[1m)[0m
+    [36m│                  │       └ [0m[36m[1m'robocorp.tasks'[0m
+    [36m│                  └ [0m[36m[1m<debugpy.server.cli.Options object at 0x000001D6B35C6FE0>[0m
+    [36m└ [0m[36m[1m<function _run_module_as_main at 0x000001D6B32BDEA0>[0m
+
+  File "[32mc:\Users\bianc\.vscode\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\[0m[32m[1mpydevd_runpy.py[0m", line [33m238[0m, in [35m_run_module_as_main[0m
+    [35m[1mreturn[0m [1m_run_code[0m[1m([0m[1mcode[0m[1m,[0m [1mmain_globals[0m[1m,[0m [36m[1mNone[0m[1m,[0m
+    [36m       │         │     └ [0m[36m[1m{'__name__': '__main__', '__doc__': None, '__package__': 'robocorp.tasks', '__loader__': <_frozen_importlib_external.SourceFi...[0m
+    [36m       │         └ [0m[36m[1m<code object <module> at 0x000001D6B3774C90, file "c:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\site-packages\robo...[0m
+    [36m       └ [0m[36m[1m<function _run_code at 0x000001D6B32BD990>[0m
+
+  File "[32mc:\Users\bianc\.vscode\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\[0m[32m[1mpydevd_runpy.py[0m", line [33m124[0m, in [35m_run_code[0m
+    [1mexec[0m[1m([0m[1mcode[0m[1m,[0m [1mrun_globals[0m[1m)[0m
+    [36m     │     └ [0m[36m[1m{'__name__': '__main__', '__doc__': None, '__package__': 'robocorp.tasks', '__loader__': <_frozen_importlib_external.SourceFi...[0m
+    [36m     └ [0m[36m[1m<code object <module> at 0x000001D6B3774C90, file "c:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\site-packages\robo...[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\site-packages\robocorp\tasks\[0m[32m[1m__main__.py[0m", line [33m4[0m, in [35m<module>[0m
+    [1mmain[0m[1m([0m[1m)[0m
+    [36m└ [0m[36m[1m<function main at 0x000001D6B3755CF0>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\site-packages\robocorp\tasks\[0m[32m[1mcli.py[0m", line [33m78[0m, in [35mmain[0m
+    [1mreturncode[0m [35m[1m=[0m [1mdispatcher[0m[35m[1m.[0m[1mprocess_args[0m[1m([0m[1margs[0m[1m)[0m
+    [36m             │          │            └ [0m[36m[1m['run', 'c:\\Users\\bianc\\RPAChallenge\\src\\main.py', '-t', 'challenge'][0m
+    [36m             │          └ [0m[36m[1m<function _ArgDispatcher.process_args at 0x000001D6B41230A0>[0m
+    [36m             └ [0m[36m[1m<robocorp.tasks._argdispatch._ArgDispatcher object at 0x000001D6B410DA80>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\site-packages\robocorp\tasks\[0m[32m[1m_argdispatch.py[0m", line [33m227[0m, in [35mprocess_args[0m
+    [35m[1mreturn[0m [1mself[0m[35m[1m.[0m[1m_dispatch[0m[1m([0m[1mparsed[0m[1m)[0m
+    [36m       │    │         └ [0m[36m[1mNamespace(command='run', path='c:\\Users\\bianc\\RPAChallenge\\src\\main.py', glob=None, task_name=['challenge'], output_dir=...[0m
+    [36m       │    └ [0m[36m[1m<function _ArgDispatcher._dispatch at 0x000001D6B4122B90>[0m
+    [36m       └ [0m[36m[1m<robocorp.tasks._argdispatch._ArgDispatcher object at 0x000001D6B410DA80>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\site-packages\robocorp\tasks\[0m[32m[1m_argdispatch.py[0m", line [33m22[0m, in [35m_dispatch[0m
+    [35m[1mreturn[0m [1mmethod[0m[1m([0m[35m[1m**[0m[1mdct[0m[1m)[0m
+    [36m       │        └ [0m[36m[1m{'path': 'c:\\Users\\bianc\\RPAChallenge\\src\\main.py', 'glob': None, 'task_name': ['challenge'], 'output_dir': '', 'max_log...[0m
+    [36m       └ [0m[36m[1m<function run at 0x000001D6B41231C0>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\site-packages\robocorp\tasks\[0m[32m[1m_commands.py[0m", line [33m440[0m, in [35mrun[0m
+    [1mresult[0m [35m[1m=[0m [1mtask[0m[35m[1m.[0m[1mrun[0m[1m([0m[35m[1m*[0m[1margs[0m[1m,[0m [35m[1m**[0m[1mkwargs[0m[1m)[0m
+    [36m         │    │    │       └ [0m[36m[1m{}[0m
+    [36m         │    │    └ [0m[36m[1m[][0m
+    [36m         │    └ [0m[36m[1m<function Task.run at 0x000001D6B41E28C0>[0m
+    [36m         └ [0m[36m[1mTask(challenge, status: NOT_RUN)[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\site-packages\robocorp\tasks\[0m[32m[1m_task.py[0m", line [33m89[0m, in [35mrun[0m
+    [35m[1mreturn[0m [1mself[0m[35m[1m.[0m[1mmethod[0m[1m([0m[35m[1m*[0m[1margs[0m[1m,[0m [35m[1m**[0m[1mkwargs[0m[1m)[0m
+    [36m       │    │       │       └ [0m[36m[1m{}[0m
+    [36m       │    │       └ [0m[36m[1m()[0m
+    [36m       │    └ [0m[36m[1m<function challenge at 0x000001D6B6A5C940>[0m
+    [36m       └ [0m[36m[1mTask(challenge, status: NOT_RUN)[0m
+
+> File "[32mc:\Users\bianc\RPAChallenge\src\[0m[32m[1mmain.py[0m", line [33m219[0m, in [35mchallenge[0m
+    [1msave_data[0m[1m([0m[1marticles[0m[1m)[0m
+    [36m│         └ [0m[36m[1m{<AjArticle title='Mauritania re-elects President Ghazouani for a second term ...'>, <AjArticle title='US fines airlines $2.5...[0m
+    [36m└ [0m[36m[1m<function save_data at 0x000001D6B6A5C550>[0m
+
+  File "[32mc:\Users\bianc\RPAChallenge\src\[0m[32m[1mmain.py[0m", line [33m201[0m, in [35msave_data[0m
+    [1mpool[0m[35m[1m.[0m[1mmap[0m[1m([0m[1mdownload_picture[0m[1m,[0m [1marticles[0m[1m)[0m
+    [36m│    │   │                 └ [0m[36m[1m{<AjArticle title='Mauritania re-elects President Ghazouani for a second term ...'>, <AjArticle title='US fines airlines $2.5...[0m
+    [36m│    │   └ [0m[36m[1m<function download_picture at 0x000001D6B6A5C160>[0m
+    [36m│    └ [0m[36m[1m<function Pool.map at 0x000001D6B6CE8040>[0m
+    [36m└ [0m[36m[1m<multiprocessing.pool.Pool state=RUN pool_size=5>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\multiprocessing\[0m[32m[1mpool.py[0m", line [33m367[0m, in [35mmap[0m
+    [35m[1mreturn[0m [1mself[0m[35m[1m.[0m[1m_map_async[0m[1m([0m[1mfunc[0m[1m,[0m [1miterable[0m[1m,[0m [1mmapstar[0m[1m,[0m [1mchunksize[0m[1m)[0m[35m[1m.[0m[1mget[0m[1m([0m[1m)[0m
+    [36m       │    │          │     │         │        └ [0m[36m[1mNone[0m
+    [36m       │    │          │     │         └ [0m[36m[1m<function mapstar at 0x000001D6B6AE1F30>[0m
+    [36m       │    │          │     └ [0m[36m[1m{<AjArticle title='Mauritania re-elects President Ghazouani for a second term ...'>, <AjArticle title='US fines airlines $2.5...[0m
+    [36m       │    │          └ [0m[36m[1m<function download_picture at 0x000001D6B6A5C160>[0m
+    [36m       │    └ [0m[36m[1m<function Pool._map_async at 0x000001D6B6CE84C0>[0m
+    [36m       └ [0m[36m[1m<multiprocessing.pool.Pool state=RUN pool_size=5>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\multiprocessing\[0m[32m[1mpool.py[0m", line [33m774[0m, in [35mget[0m
+    [35m[1mraise[0m [1mself[0m[35m[1m.[0m[1m_value[0m
+    [36m      │    └ [0m[36m[1mAttributeError("Can't pickle local object 'Selenium._get_service_class.<locals>.BrowserService'")[0m
+    [36m      └ [0m[36m[1m<multiprocessing.pool.MapResult object at 0x000001D6B69D2A70>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\multiprocessing\[0m[32m[1mpool.py[0m", line [33m540[0m, in [35m_handle_tasks[0m
+    [1mput[0m[1m([0m[1mtask[0m[1m)[0m
+    [36m│   └ [0m[36m[1mNone[0m
+    [36m└ [0m[36m[1m<bound method _ConnectionBase.send of <multiprocessing.connection.PipeConnection object at 0x000001D6B6CB78E0>>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\multiprocessing\[0m[32m[1mconnection.py[0m", line [33m206[0m, in [35msend[0m
+    [1mself[0m[35m[1m.[0m[1m_send_bytes[0m[1m([0m[1m_ForkingPickler[0m[35m[1m.[0m[1mdumps[0m[1m([0m[1mobj[0m[1m)[0m[1m)[0m
+    [36m│    │           │               │     └ [0m[36m[1m(0, 0, <function mapstar at 0x000001D6B6AE1F30>, ((<function download_picture at 0x000001D6B6A5C160>, (<AjArticle title='Maur...[0m
+    [36m│    │           │               └ [0m[36m[1m<classmethod(<function ForkingPickler.dumps at 0x000001D6B4AF9900>)>[0m
+    [36m│    │           └ [0m[36m[1m<class 'multiprocessing.reduction.ForkingPickler'>[0m
+    [36m│    └ [0m[36m[1m<function PipeConnection._send_bytes at 0x000001D6B6E49990>[0m
+    [36m└ [0m[36m[1m<multiprocessing.connection.PipeConnection object at 0x000001D6B6CB78E0>[0m
+
+  File "[32mc:\ProgramData\robocorp\ht\82690e2_b1f3c24_09529949\lib\multiprocessing\[0m[32m[1mreduction.py[0m", line [33m51[0m, in [35mdumps[0m
+    [1mcls[0m[1m([0m[1mbuf[0m[1m,[0m [1mprotocol[0m[1m)[0m[35m[1m.[0m[1mdump[0m[1m([0m[1mobj[0m[1m)[0m
+    [36m│   │    │              └ [0m[36m[1m(0, 0, <function mapstar at 0x000001D6B6AE1F30>, ((<function download_picture at 0x000001D6B6A5C160>, (<AjArticle title='Maur...[0m
+    [36m│   │    └ [0m[36m[1mNone[0m
+    [36m│   └ [0m[36m[1m<_io.BytesIO object at 0x000001D6B6C9BE70>[0m
+    [36m└ [0m[36m[1m<class 'multiprocessing.reduction.ForkingPickler'>[0m
+
+[31m[1mAttributeError[0m:[1m Can't pickle local object 'Selenium._get_service_class.<locals>.BrowserService'[0m
+[32m2024-07-01 18:43:01.684[0m | [38;2;255;0;255mCPU 5.4% [0m | [38;2;255;0;255mMEM 87.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m210[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 18:43:01.697[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 87.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m211[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 18:43:01.710[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 87.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m213[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 18:43:01.727[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 87.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m145[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 18:43:08.078[0m | [38;2;255;0;255mCPU 6.9% [0m | [38;2;255;0;255mMEM 90.8%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m161[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 18:43:12.201[0m | [38;2;255;0;255mCPU 26.9%[0m | [38;2;255;0;255mMEM 98.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m168[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 18:43:14.910[0m | [38;2;255;0;255mCPU 22.6%[0m | [38;2;255;0;255mMEM 98.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m171[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:43:20.675[0m | [38;2;255;0;255mCPU 11.4%[0m | [38;2;255;0;255mMEM 94.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m171[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:43:25.897[0m | [38;2;255;0;255mCPU 6.6% [0m | [38;2;255;0;255mMEM 95.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m171[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 18:43:30.442[0m | [38;2;255;0;255mCPU 4.1% [0m | [38;2;255;0;255mMEM 95.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m173[0m |  - [1mFound 27 articles[0m
+[32m2024-07-01 18:43:32.764[0m | [38;2;255;0;255mCPU 5.7% [0m | [38;2;255;0;255mMEM 78.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__exit__[0m:[36m174[0m |  - [34m[1mQuitting browser[0m
+[32m2024-07-01 18:43:32.776[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 78.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m218[0m |  - [1m Step 2: Saving data...[0m
+[32m2024-07-01 18:43:32.787[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 78.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m192[0m |  - [1mSaving data...[0m
+[32m2024-07-01 18:43:32.798[0m | [38;2;255;0;255mCPU 10.0%[0m | [38;2;255;0;255mMEM 78.3%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m197[0m |  - [1mDownloading images...[0m
+[32m2024-07-01 18:43:33.158[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 78.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 5970250_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.168[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 78.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 3296252_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.176[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 78.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 4152499_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.189[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 2977702_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.201[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 3701345_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.329[0m | [38;2;255;0;255mCPU 3.7% [0m | [38;2;255;0;255mMEM 78.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 1193626_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.349[0m | [38;2;255;0;255mCPU 4.2% [0m | [38;2;255;0;255mMEM 78.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 5289273_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.365[0m | [38;2;255;0;255mCPU 2.3% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 3687779_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.372[0m | [38;2;255;0;255mCPU 3.5% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 4443194_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.393[0m | [38;2;255;0;255mCPU 3.4% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 1259228_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.487[0m | [38;2;255;0;255mCPU 5.1% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 8323847_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.504[0m | [38;2;255;0;255mCPU 5.0% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 9188902_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.528[0m | [38;2;255;0;255mCPU 5.5% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 6556045_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.535[0m | [38;2;255;0;255mCPU 6.1% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 7307850_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.557[0m | [38;2;255;0;255mCPU 6.6% [0m | [38;2;255;0;255mMEM 78.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 1551851_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.626[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 78.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 7139546_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.650[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 3381865_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.685[0m | [38;2;255;0;255mCPU 7.4% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 7603529_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.704[0m | [38;2;255;0;255mCPU 6.2% [0m | [38;2;255;0;255mMEM 78.7%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 9368621_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.711[0m | [38;2;255;0;255mCPU 5.0% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 8023200_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.772[0m | [38;2;255;0;255mCPU 3.7% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 4398654_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.808[0m | [38;2;255;0;255mCPU 4.1% [0m | [38;2;255;0;255mMEM 78.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 5689662_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.852[0m | [38;2;255;0;255mCPU 12.9%[0m | [38;2;255;0;255mMEM 79.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 5853805_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.873[0m | [38;2;255;0;255mCPU 12.7%[0m | [38;2;255;0;255mMEM 79.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 4967058_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.911[0m | [38;2;255;0;255mCPU 16.5%[0m | [38;2;255;0;255mMEM 79.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 4626612_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:33.963[0m | [38;2;255;0;255mCPU 14.2%[0m | [38;2;255;0;255mMEM 79.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 1830802_AjArticle.png downloaded[0m
+[32m2024-07-01 18:43:34.003[0m | [38;2;255;0;255mCPU 4.2% [0m | [38;2;255;0;255mMEM 79.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mdownload_picture[0m:[36m186[0m |  - [1mImage 8836244_AjArticle.png downloaded[0m
+[32m2024-07-01 19:00:12.699[0m | [38;2;255;0;255mCPU 15.2%[0m | [38;2;255;0;255mMEM 89.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m213[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 19:00:12.739[0m | [38;2;255;0;255mCPU 23.1%[0m | [38;2;255;0;255mMEM 89.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m214[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 19:00:12.753[0m | [38;2;255;0;255mCPU 7.7% [0m | [38;2;255;0;255mMEM 89.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m216[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 19:00:12.778[0m | [38;2;255;0;255mCPU 26.1%[0m | [38;2;255;0;255mMEM 89.6%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m147[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 19:00:18.008[0m | [38;2;255;0;255mCPU 7.8% [0m | [38;2;255;0;255mMEM 93.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m161[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 19:00:21.572[0m | [38;2;255;0;255mCPU 23.9%[0m | [38;2;255;0;255mMEM 98.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m168[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 19:00:26.177[0m | [38;2;255;0;255mCPU 32.9%[0m | [38;2;255;0;255mMEM 99.2%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m171[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 19:00:31.289[0m | [38;2;255;0;255mCPU 15.7%[0m | [38;2;255;0;255mMEM 95.7%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m171[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 19:00:36.798[0m | [38;2;255;0;255mCPU 4.8% [0m | [38;2;255;0;255mMEM 96.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m171[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 19:00:41.539[0m | [38;2;255;0;255mCPU 4.6% [0m | [38;2;255;0;255mMEM 96.7%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m173[0m |  - [1mFound 28 articles[0m
+[32m2024-07-01 19:50:01.633[0m | [38;2;255;0;255mCPU 5.4% [0m | [38;2;255;0;255mMEM 91.8%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m218[0m |  - [1mWorkitem: {'search_phrase': 'covid', 'news_section': ['business', 'technology', 'entertainment'], 'number_months': 1}[0m
+[32m2024-07-01 19:50:01.648[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 91.8%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m219[0m |  - [1mStarting the challenge...[0m
+[32m2024-07-01 19:50:01.660[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 91.8%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m221[0m |  - [1m Step 1: Search news and collecting data...[0m
+[32m2024-07-01 19:50:01.676[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 91.9%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__init__[0m:[36m150[0m |  - [34m[1mCreating browser[0m
+[32m2024-07-01 19:50:07.397[0m | [38;2;255;0;255mCPU 8.6% [0m | [38;2;255;0;255mMEM 94.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m162[0m |  - [1mSearching for news...[0m
+[32m2024-07-01 19:50:11.143[0m | [38;2;255;0;255mCPU 26.3%[0m | [38;2;255;0;255mMEM 96.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m169[0m |  - [1mCollecting articles...[0m
+[32m2024-07-01 19:50:16.550[0m | [38;2;255;0;255mCPU 47.6%[0m | [38;2;255;0;255mMEM 98.4%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m172[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 19:50:21.683[0m | [38;2;255;0;255mCPU 11.6%[0m | [38;2;255;0;255mMEM 92.0%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m172[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 19:50:27.030[0m | [38;2;255;0;255mCPU 8.4% [0m | [38;2;255;0;255mMEM 92.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m172[0m |  - [1mNavigating to next page...[0m
+[32m2024-07-01 19:50:31.690[0m | [38;2;255;0;255mCPU 5.2% [0m | [38;2;255;0;255mMEM 92.5%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msearch[0m:[36m174[0m |  - [1mFound 28 articles[0m
+[32m2024-07-01 19:50:34.196[0m | [38;2;255;0;255mCPU 11.5%[0m | [38;2;255;0;255mMEM 73.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [34m[1mDEBUG   [0m | [36msrc.utils.news_browser[0m:[36m__exit__[0m:[36m179[0m |  - [34m[1mQuitting browser[0m
+[32m2024-07-01 19:50:34.213[0m | [38;2;255;0;255mCPU 16.7%[0m | [38;2;255;0;255mMEM 73.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36mchallenge[0m:[36m226[0m |  - [1m Step 2: Fetching data...[0m
+[32m2024-07-01 19:50:34.230[0m | [38;2;255;0;255mCPU 0.0% [0m | [38;2;255;0;255mMEM 73.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m199[0m |  - [1mSaving data...[0m
+[32m2024-07-01 19:50:34.246[0m | [38;2;255;0;255mCPU 8.3% [0m | [38;2;255;0;255mMEM 73.1%[0m | [38;2;255;0;255mDISK 85.9%[0m | [1mINFO    [0m | [36mmain[0m:[36msave_data[0m:[36m204[0m |  - [1mDownloading images...[0m

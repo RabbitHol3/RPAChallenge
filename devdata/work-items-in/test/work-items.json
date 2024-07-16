@@ -1,0 +1,18 @@
+[
+  {
+      "payload": {
+         "search_phrase": "covid",
+         "news_section": ["business", "technology", "entertainment"],
+         "number_months": 1
+      },  
+      "files": {}
+  },
+  {
+    "payload": {
+       "search_phrase": "trump",
+       "news_section": ["business", "technology", "entertainment"],
+       "number_months": 1
+    },  
+    "files": {}
+}
+]
