@@ -238,6 +238,10 @@ def fetch_data():
 @task()
 def capture_news():
     for item in workitems.inputs:
-        fetch_news(item.payload)
-        workitems.outputs.create(item.payload)
-        item.done()
+        try:
+            fetch_news(item.payload)
+            workitems.outputs.create(item.payload)
+            item.done()
+        except Exception as e:
+            logger.error(f"Failed to process workitem: {e}")
+            item.fail(**exceptions.UnexpectedError(str(e)))
