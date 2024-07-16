@@ -5,7 +5,7 @@ from src.utils.news_browser import (
     Article,
     Aljazeera
 )
-from utils.default import retry_on_error
+from src.utils.default import retry_on_error
 import multiprocessing.pool
 from robocorp.tasks import task, ITask, setup
 from robocorp import workitems
