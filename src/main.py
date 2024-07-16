@@ -5,6 +5,7 @@ from src.utils.news_browser import (
     Article,
     Aljazeera
 )
+from utils.default import retry_on_error
 import multiprocessing.pool
 from robocorp.tasks import task, ITask, setup
 from robocorp import workitems
@@ -17,12 +18,11 @@ import random
 import multiprocessing
 import re
 from src.utils import exceptions
-from utils.default import retry_on_error
 import string
 import pandas as pd
 
 
-OUTPUT_DIR = pathlib.Path("output")
+OUTPUT_DIR = "output"
 IMAGE_DIR = OUTPUT_DIR / "images"
 MAX_TASK_RETRIES = 3
 
