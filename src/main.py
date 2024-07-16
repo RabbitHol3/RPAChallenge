@@ -23,7 +23,8 @@ import pandas as pd
 
 # get above /output
 OUTPUT_DIR = pathlib.Path(__file__).parent.parent / "output"
-IMAGE_DIR = OUTPUT_DIR / "images"
+# IMAGE_DIR = OUTPUT_DIR / "images"
+IMAGE_DIR = OUTPUT_DIR
 
 MAX_TASK_RETRIES = 3
 
