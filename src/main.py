@@ -55,7 +55,7 @@ def setup_logger():
     logger.configure(extra={"cpu": "", "mem": "", "disk": ""})
     logger.remove()
     logger.add(
-        "logs/{time:YYYY-MM-DD}.log",  # or sys.stdout
+        str(OUTPUT_DIR / "{time:YYYY-MM-DD}.log"),  # or sys.stdout
         rotation="1 day",
         retention="7 days",
         colorize=True,
