@@ -23,8 +23,8 @@ import pandas as pd
 
 # get above /output
 OUTPUT_DIR = pathlib.Path(__file__).parent.parent / "output"
-
 IMAGE_DIR = OUTPUT_DIR / "images"
+
 MAX_TASK_RETRIES = 3
 
 
@@ -65,6 +65,11 @@ def setup_logger():
     logger.add(sys.stdout, colorize=True, format=logger_format, level="DEBUG")
 
 
+def setup_directories():
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    IMAGE_DIR.mkdir(parents=True, exist_ok=True)
+
+
 @setup
 def setup(task: ITask):
     """ Setup for the task suite """
@@ -74,6 +79,10 @@ def setup(task: ITask):
     logger.debug("Setting up logger...")
     setup_logger()
     logger.debug("Logger setup complete")
+
+    logger.debug("Setting up directories...")
+    setup_directories()
+    logger.debug("Directories setup complete")
 
 
 @logger.catch
@@ -109,16 +118,13 @@ def download_picture(article: dict):
 
 @logger.catch
 def download_pictures(articles: list[dict]):
-    if not OUTPUT_DIR.exists():
-        logger.info("Creating output directory...")
-        OUTPUT_DIR.mkdir()
+    # If we want to download the pictures in parallel
+    # pool = multiprocessing.pool.ThreadPool(5)
+    # result = pool.map_async(download_picture, articles)
+    # result.wait()  # Wait for the download to finish
 
-    if not IMAGE_DIR.exists():
-        IMAGE_DIR.mkdir()
-
-    pool = multiprocessing.pool.ThreadPool(5)
-    result = pool.map_async(download_picture, articles)
-    result.wait()  # Wait for the download to finish
+    for article in articles:
+        download_picture(article)
 
 
 def validate_payload(payload: dict, expected_keys: list[str]) -> None:
@@ -189,6 +195,7 @@ def store_data():
                 OUTPUT_DIR / f"articles_{hash(item)}.xlsx", index=False)
             logger.info("Articles saved to Excel")
             item.done()
+
         except Exception as e:
             logger.error(f"Failed to process workitem: {e}")
             item.fail(**exceptions.UnexpectedError(str(e)))
